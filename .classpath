@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="C:/Users/shiva/Downloads/openjfx-17.0.13_windows-x64_bin-sdk/javafx-sdk-17.0.13/lib/javafx.graphics.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/shiva/Downloads/openjfx-17.0.13_windows-x64_bin-sdk/javafx-sdk-17.0.13/lib/javafx.media.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/shiva/Downloads/openjfx-17.0.13_windows-x64_bin-sdk/javafx-sdk-17.0.13/lib/javafx.swing.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/shiva/Downloads/openjfx-17.0.13_windows-x64_bin-sdk/javafx-sdk-17.0.13/lib/javafx.web.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/shiva/Downloads/openjfx-17.0.13_windows-x64_bin-sdk/javafx-sdk-17.0.13/lib/javafx.base.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/shiva/Downloads/openjfx-17.0.13_windows-x64_bin-sdk/javafx-sdk-17.0.13/lib/javafx.controls.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/shiva/Downloads/openjfx-17.0.13_windows-x64_bin-sdk/javafx-sdk-17.0.13/lib/javafx.fxml.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/shiva/Downloads/openjfx-17.0.13_windows-x64_bin-sdk/javafx-sdk-17.0.13/lib/javafx-swt.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/JAVA/CRIMINAL_DATABASE_MANAGMENT_SYSTEM/src/mysql-connector-j-8.4.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path=""/>
+</classpath>
